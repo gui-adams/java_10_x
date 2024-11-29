@@ -1,6 +1,7 @@
 # Java_10_x: O Java e a vontade do fogo!
 
-Por que escolhi o Fiasco para aprender?
+Por que escolhi o curso Fiasco para aprender java e migrar da carreira de dev javascript/node para java/spring?
+
 Porque nada grita "programação é vida" como aprender Java enquanto assiste a analogias com Naruto. Sim, aqui vou documentar meus estudos e descobrir que derrotar bugs é mais complicado que vencer o Madara. O método é direto, engraçado, e... caótico? Talvez. Mas quem disse que programar não é?
 
 "Propaganda gratuita sem receber nem uma gelada como recompensa"

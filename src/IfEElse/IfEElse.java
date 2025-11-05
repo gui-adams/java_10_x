@@ -14,10 +14,10 @@ public class IfEElse {
         boolean clan = true;
 
         /*
-         * if ( condicao) { resultado }
-         * else if ( condicao) { resultado }
-         * else { resultado caso nada seja verdadeiro }
-         * */
+          if ( condicao) { resultado }
+          else if ( condicao) { resultado }
+          else { resultado caso nada seja verdadeiro }
+          */
 
 
         // if verifica se a condição é verdadeira

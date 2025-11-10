@@ -14,7 +14,7 @@ public class Ninja {
     // 'public' significa que esse metodo pode ser usado de qualquer lugar.
     // 'void' significa que o metodo NÃO devolve nenhum resultado — só executa algo.
     public void SharinganAtivado() {
-        System.out.println("O sharigan ativou!");
+        System.out.println("O sharigan ativou eu sou um uchica!");
     }
     //️ Outro metodo, mas este tem retorno.
     // 'public String' significa que o metodo vai DEVOLVER um texto (String).

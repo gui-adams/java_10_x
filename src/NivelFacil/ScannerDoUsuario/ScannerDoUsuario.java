@@ -1,4 +1,4 @@
-package ScannerDoUsuario;
+package NivelFacil.ScannerDoUsuario;
 
 import java.util.Scanner;
 

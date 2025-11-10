@@ -1,4 +1,4 @@
-package TiposDeDados;
+package NivelFacil.TiposDeDados;
 
 //atalhos:
 //psvm

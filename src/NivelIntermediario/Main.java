@@ -49,7 +49,15 @@ public class Main {
          Ninja_4.idade = 19;
          Ninja_4.Byakugan();
 
-
+         //Objeto 5
+         Boruto Ninja_5 = new Boruto();
+         Ninja_5.nome = "Boruto";
+         Ninja_5.aldeia = "Vila da Folha";
+         Ninja_5.idade = 9;
+         //Interface
+         Ninja_5.modoBesta();
+         Ninja_5.ativarJougan();
+         Ninja_5.Vitalidade();
 
      }
 }

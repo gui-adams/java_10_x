@@ -1,7 +1,4 @@
 package NivelIntermediario;
-// Uma classe é como um MOLDE que serve para criar objetos.
-// Por exemplo: o molde da garrafa, o molde do vaso, ou o "Adão que cria Eva".
-// A partir dessa classe, podemos criar vários ninjas (Naruto, Sasuke, Kakashi...).
 
 
 public class Ninja {
@@ -21,6 +18,7 @@ public class Ninja {
         // 'return' é o comando que devolve algo para quem chamou o metodo.
         return "Olá, Eu sou um ninja!";
     }
+
     //Metodo Int vai ter que retornar um int
     public int anosParaSeTornarHokage(int idadeMinimaParaSerHokage){
         return idadeMinimaParaSerHokage - idade;
